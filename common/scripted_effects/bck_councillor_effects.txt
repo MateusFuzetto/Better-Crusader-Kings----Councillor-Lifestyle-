@@ -100,12 +100,6 @@ bck_councillor_confindant_xp_effects = {
             }
         }
     }
-
-    send_interface_message = {
-        type = event_generic_good_with_text
-        title = trait_improved_confidant
-        desc = trait_improved_confidant_desc
-    }
 }
 
 bck_councillor_chaplain_xp_effects = {
@@ -118,12 +112,6 @@ bck_councillor_chaplain_xp_effects = {
                 max = 8
             }
         }
-    }
-
-    send_interface_message = {
-        type = event_generic_good_with_text
-        title = trait_improved_chaplain
-        desc = trait_improved_chaplain_desc
     }
 }
 
@@ -138,12 +126,6 @@ bck_councillor_chancellor_xp_effects = {
             }
         }
     }
-
-    send_interface_message = {
-        type = event_generic_good_with_text
-        title = trait_improved_chancellor
-        desc = trait_improved_chancellor_desc
-    }
 }
 
 bck_councillor_steward_xp_effects = {
@@ -156,12 +138,6 @@ bck_councillor_steward_xp_effects = {
                 max = 8
             }
         }
-    }
-
-    send_interface_message = {
-        type = event_generic_good_with_text
-        title = trait_improved_steward
-        desc = trait_improved_steward_desc
     }
 }
 
@@ -176,12 +152,6 @@ bck_councillor_marshal_xp_effects = {
             }
         }
     }
-
-    send_interface_message = {
-        type = event_generic_good_with_text
-        title = trait_improved_marshal
-        desc = trait_improved_marshal_desc
-    }
 }
 
 bck_councillor_spymaster_xp_effects = {
@@ -194,12 +164,6 @@ bck_councillor_spymaster_xp_effects = {
                 max = 8
             }
         }
-    }
-
-    send_interface_message = {
-        type = event_generic_good_with_text
-        title = trait_improved_spymaster
-        desc = trait_improved_spymaster_desc
     }
 }
 
