@@ -95,8 +95,8 @@ bck_councillor_confindant_xp_effects = {
         track = confidant
         value = {
             integer_range = {
-                min = 4
-                max = 8
+                min = 5
+                max = 10
             }
         }
     }
@@ -108,8 +108,8 @@ bck_councillor_chaplain_xp_effects = {
         track = chaplain
         value = {
             integer_range = {
-                min = 4
-                max = 8
+                min = 5
+                max = 10
             }
         }
     }
@@ -121,8 +121,8 @@ bck_councillor_chancellor_xp_effects = {
         track = chancellor
         value = {
             integer_range = {
-                min = 4
-                max = 8
+                min = 5
+                max = 10
             }
         }
     }
@@ -134,8 +134,8 @@ bck_councillor_steward_xp_effects = {
         track = steward
         value = {
             integer_range = {
-                min = 4
-                max = 8
+                min = 5
+                max = 10
             }
         }
     }
@@ -147,8 +147,8 @@ bck_councillor_marshal_xp_effects = {
         track = marshal
         value = {
             integer_range = {
-                min = 4
-                max = 8
+                min = 5
+                max = 10
             }
         }
     }
@@ -160,8 +160,8 @@ bck_councillor_spymaster_xp_effects = {
         track = spymaster
         value = {
             integer_range = {
-                min = 4
-                max = 8
+                min = 5
+                max = 10
             }
         }
     }
